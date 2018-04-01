@@ -1,0 +1,20 @@
+{
+    "name": "pevenstinker/playbook",
+    "type": "library",
+    "description": "Art of Mind-style playbook writing and publishing system",
+    "keywords": ["playbook","book","publishing"],
+    "homepage": "https://artofmind.club/playbook-package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Geoff Brown",
+            "email": "geoff@art.ofmind.co"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "files": ["src"]
+    }
+}
