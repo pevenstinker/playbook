@@ -1,6 +1,6 @@
 {
     "name": "pevenstinker/playbook",
-    "type": "library",
+    "type": "package",
     "description": "Art of Mind-style playbook writing and publishing system",
     "keywords": ["playbook","book","publishing"],
     "homepage": "https://artofmind.club/playbook-package",
@@ -13,8 +13,5 @@
     ],
     "require": {
         "php": ">=5.3.3"
-    },
-    "autoload": {
-        "files": ["src"]
     }
 }
